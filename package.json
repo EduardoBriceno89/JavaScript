@@ -1,0 +1,27 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "primer proyecto node",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoBriceno89/JavaScript.git"
+  },
+  "keywords": [
+    "mi",
+    "primer",
+    "proyecto",
+    "de",
+    "node"
+  ],
+  "author": "Eduardo Briceno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoBriceno89/JavaScript/issues"
+  },
+  "homepage": "https://github.com/EduardoBriceno89/JavaScript#readme"
+}
